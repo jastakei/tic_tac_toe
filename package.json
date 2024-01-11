@@ -1,8 +1,8 @@
 {
+  "homepage": "https://jastakei.github.io/tic_tac_toe/",
   "name": "react.dev",
   "version": "0.0.0",
   "main": "/src/index.js",
-  "homepage": "https://jastakei.github.io/tic_tac_toe",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
